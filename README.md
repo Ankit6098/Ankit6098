@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ankit6098.Ankit6098)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Ankit6098&label=VISITORS&labelColor=%d9e3f0&countColor=%2337d67a&style=plastic&labelStyle=upper)
 
 <!--
 **Ankit6098/Ankit6098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
