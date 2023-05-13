@@ -23,9 +23,9 @@ I am Full Stack Developer.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongodb" /></a> &nbsp;
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="46" height="36" alt="mongoose" /></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mysql" /></a> &nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="github" /></a> &nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="github" /></a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="git" /></a> &nbsp;
-<a href="https://helpx.adobe.com/xd/get-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/adobexd-colored.svg" width="36" height="36" alt="adobe xd" /></a> &nbsp;
+<a href="https://helpx.adobe.com/xd/get-started.html" target="_blank" rel="noreferrer"><img src="   https://cdn-icons-png.flaticon.com/512/5611/5611129.png " width="36" height="36" alt="adobe xd" /></a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a> &nbsp; 
 
 ### Socials
