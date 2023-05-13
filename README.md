@@ -17,9 +17,9 @@ I am Full Stack Developer.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" width="36" height="36" alt="nodejs" /></a> &nbsp; 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60" height="46" alt="express" /></a> &nbsp; 
-<a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/543-5432188_logo-ejs-logo-png-transparent-png.png" width="60" height="46" alt="ejs" /></a> &nbsp; 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" width="46" height="46" alt="nodejs" /></a> &nbsp; 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" height="46" alt="express" /></a> &nbsp; 
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/543-5432188_logo-ejs-logo-png-transparent-png.png" width="70" height="36" alt="ejs" /></a> &nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongodb" /></a> &nbsp;
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="36" height="36" alt="mongoose" /></a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="java" /></a> &nbsp;
