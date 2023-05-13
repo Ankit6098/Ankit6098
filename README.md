@@ -18,7 +18,7 @@ I am Full Stack Developer.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" width="36" height="36" alt="nodejs" /></a> &nbsp; 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="36" height="36" alt="express" /></a> &nbsp; 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60" height="36" alt="express" /></a> &nbsp; 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ejs-colored.svg" width="36" height="36" alt="java" /></a> &nbsp; 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="java" /></a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongoose-colored.svg" width="36" height="36" alt="java" /></a> &nbsp;
