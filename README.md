@@ -11,11 +11,11 @@ I am Full Stack Developer.
 
 ### Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="36" height="36" alt="HTML5" />
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="36" height="36" alt="CSS3" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="36" height="36" alt="JavaScript" /></a> &nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="36" height="36" alt="React" /></a> &nbsp; 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="36" height="36" alt="Sass" /></a> &nbsp; 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" width="46" height="46" alt="nodejs" /></a> &nbsp; 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" height="26" alt="express" /></a> &nbsp; 
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/543-5432188_logo-ejs-logo-png-transparent-png.png" width="50" height="26" alt="ejs" /></a> &nbsp; 
@@ -33,5 +33,5 @@ I am Full Stack Developer.
 <a href="https://discord.gg/vcByDNA" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="32" height="32" /></a> &nbsp; 
 <a href="https://ankithub.me/Resume/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2202/2202112.png" width="32" height="32" /></a> &nbsp;
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh233&show_icons=true&locale=en&layout=compact" alt="singh233" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh233&" alt="singh233" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit6098&show_icons=true&locale=en&layout=compact" alt="Ankit6098" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6098&" alt="Ankit6098" /></p>
