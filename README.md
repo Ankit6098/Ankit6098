@@ -5,7 +5,7 @@ I am Full Stack Developer.
 --------------------------
 
 *   🌍  I'm based in Mumbai, India
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ankithub.me/Resume/'><img src=https://cdn-icons-png.flaticon.com/512/3059/3059997.png width="32" height="32" alt="portfolio"/></a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ankithub.me/Resume/'><img src="https://cdn-icons-png.flaticon.com/512/2721/2721720.png" width="32" height="32" alt="portfolio"/></a>
 *   🧠  Currently learning React.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
