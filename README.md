@@ -28,6 +28,10 @@ I am Full Stack Developer.
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a> &nbsp; 
 
 ### Socials
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit6098&repo=github-readme-stats&theme=buefy" />
+</a>
 
 <a href="https://www.linkedin.com/in/ankit-vishwakarma-6531221b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; 
 <a href="https://discord.gg/vcByDNA" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="32" height="32" /></a> &nbsp; 
