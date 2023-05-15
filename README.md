@@ -34,5 +34,5 @@ I am Full Stack Developer.
 <a href="https://ankithub.me/Resume/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2202/2202112.png" width="36" height="36" /></a> &nbsp;
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit6098&show_icons=true&locale=en&layout=compact" alt="Ankit6098" /></p>
-  ![](https://github-readme-stats.vercel.app/api?username=Ankit6098&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit6098&show_icons=true&theme=transparent)
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6098&" alt="Ankit6098" /></p>
