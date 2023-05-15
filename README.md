@@ -28,14 +28,13 @@ I am Full Stack Developer.
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a> &nbsp; 
 
 ### Socials
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit6098&repo=github-readme-stats&theme=buefy" />
-</a>
 
 <a href="https://www.linkedin.com/in/ankit-vishwakarma-6531221b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; 
 <a href="https://discord.gg/vcByDNA" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="32" height="32" /></a> &nbsp; 
 <a href="https://ankithub.me/Resume/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2202/2202112.png" width="36" height="36" /></a> &nbsp;
 
+<a href="https://github.com/Ankit6098/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit6098&repo=github-readme-stats&theme=buefy" />
+</a>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit6098&show_icons=true&locale=en&layout=compact" alt="Ankit6098" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6098&" alt="Ankit6098" /></p>
